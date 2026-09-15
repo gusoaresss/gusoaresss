@@ -1,13 +1,19 @@
 
 # Gustavo Pietro Soares 👋
 
-🎓 Estudante de Ciência da Computação na SPTech  
-💼 Estagiário de Engenharia de Dados no Bradesco  
-🇧🇷 Brasil
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Estagi%C3%A1rio+de+Engenharia+de+Dados;Apaixonado+por+Tecnologia+e+Inova%C3%A7%C3%A3o" alt="Apresentação animada"/>
+</p>
 
-Tenho interesse em **Engenharia de Dados, Blockchain, Cloud, Desenvolvimento Web e Segurança da Informação**. Busco sempre aprender novas tecnologias e desenvolver projetos que contribuam para minha evolução profissional.
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavopietro/)
+## 👨‍💻 Sobre mim
+
+- 🇧🇷 Sou do Brasil.
+- 🎓 Cursando Ciência da Computação na SPTech.
+- 💼 Estagiário de Engenharia de Dados no Bradesco.
+- 🔎 Interesse em Engenharia de Dados, Blockchain, Cloud, Desenvolvimento Web e Segurança da Informação.
+- 🚀 Sempre buscando aprender, evoluir e desenvolver novos projetos.
 
 ---
 
@@ -26,23 +32,31 @@ Tenho interesse em **Engenharia de Dados, Blockchain, Cloud, Desenvolvimento Web
 
 ---
 
-## 🔥 Status do GitHub
+## 📊 GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusoaresss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusoaresss&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Linguagens mais utilizadas"/>
+<p align="left">
+  <a href="https://github.com/gusoaresss">
+    <img src="https://img.shields.io/badge/GitHub-gusoaresss-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gusoaresss&theme=tokyonight&cache_seconds=86400" alt="GitHub Streak"/>
+<p align="left">
+  <img src="https://img.shields.io/github/followers/gusoaresss?style=for-the-badge&label=Seguidores" alt="Seguidores"/>
+  <img src="https://img.shields.io/github/stars/gusoaresss?style=for-the-badge&label=Estrelas" alt="Estrelas"/>
+  <img src="https://img.shields.io/github/commit-activity/y/gusoaresss?style=for-the-badge&label=Commits%20no%20ano" alt="Commits no ano"/>
 </p>
 
 ---
 
-## 📊 Minhas contribuições
+## 📫 Entre em contato
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gusoaresss&theme=tokyo-night&hide_border=true" alt="Gráfico de contribuições"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/gustavopietro/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/gusoaresss">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
